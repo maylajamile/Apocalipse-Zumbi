@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 50c4d36bf5e736c43a0ccbd35520c8bc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Zumbi: {fileID: 908262362439917881, guid: 1a63b120c4ff11e4387d51e7ba08b23b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
