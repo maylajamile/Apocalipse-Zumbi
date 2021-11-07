@@ -4,6 +4,10 @@
   <p>Tente sobreviver com todos os bugs 🤡</p>
 </h1>
 
+<h1 align="center"">
+  <img src="https://media.giphy.com/media/psWP3hTFGvOFYrBT0D/giphy.gif" width="700"/>
+</h1>
+
 ## 🚨 Sobre
 **Protótipo de jogo criado durante curso de desenvolvimento de jogos eletrônicos, onde foi possivel aprender as etapas e os tipos de profissionais que estão envolvidos(as) durante o processo de criação.**
 
