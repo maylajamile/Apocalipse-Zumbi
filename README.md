@@ -1,9 +1,3 @@
-<h1 align="center">
-  <img src="https://user-images.githubusercontent.com/84540551/140651205-a2a5c7d2-7627-4857-9184-1ebda27e3406.png"/>
-  <p>Apocalipse Zumbi<p/>
-  <p>Tente sobreviver com todos os bugs 🤡</p>
-</h1>
-
 <h1 align="center"">
   <img src="https://media.giphy.com/media/psWP3hTFGvOFYrBT0D/giphy.gif" width="700"/>
 </h1>
