@@ -13,4 +13,3 @@
 
 ## 🛠️ Ferramentas
 - Unity
-- C#
